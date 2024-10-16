@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 637fd187773dc754ebda659be31bb0be
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - golfBatHandleBlack: {instanceID: 0}
+  - golf: {instanceID: 0}
+  - targetObject: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
